@@ -1,5 +1,0 @@
-Time Complexity:
-O(n × totalSum)
-
-Space Complexity:
-O(n × totalSum)
